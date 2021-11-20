@@ -1531,7 +1531,8 @@ def usgeaseets():
 
 def usge():
     usgeaseets()
-    figlet ('Sky77DDoS' | lolcat)
+    print('Recode By : Skyw4lkeR77')
+    print('github : https://github.com/Skyw4lkeR77') 
     print('python3 {} <method> <url> <socks_type5.4.1> <threads> <proxylist> <multiple> <timer>\n'.format(sys.argv[0]))
     print(' > Methods:')
     print(' - L3')
