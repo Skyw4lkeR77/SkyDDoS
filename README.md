@@ -53,9 +53,6 @@
   * 👑 HELP | Cara Menggunakan Script
 
 
-## 🔄Download :
-
-Anda dapat mengunduh dari [GitHub Releases](https://github.com/Skyw4lkeR77/SkyDDoS/releases)
 
 ### ❓Memulai Script
 
