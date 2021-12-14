@@ -74,7 +74,7 @@ Anda dapat mengunduh dari [GitHub Releases](https://github.com/Skyw4lkeR77/SkyDD
 
 ```console
 git clone https://github.com/Skyw4lkeR77/SkyDDoS.git
-cd MHDDoS
+cd SkyDDoS
 pip3 install -r requirements.txt
 ```
 
